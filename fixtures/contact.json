@@ -1,0 +1,38 @@
+{
+  "name": {
+    "fname": "Monkey D.",
+    "lname": "Luffy"
+  },
+  "bday": {
+    "bday": "2000-09-13"
+  },
+  "email": {
+    "email": "luffy@gmail.com"
+  },
+  "phone": {
+    "phone": "9874563210"
+  },
+  "Street1": {
+    "street1": "sdfasfd"
+  },
+  "Street2": {
+    "street2": "sdfasdsdf"
+  },
+  "City": {
+    "city": "asdfsadf"
+  },
+  "State": {
+    "state": "sadfsd"
+  },
+  "Postal": {
+    "postalCode": "44600"
+  },
+  "Country": {
+    "country": "asdfsf"
+  },
+
+  "updateName": {
+    "ufname": "Tisha",
+    "ulname": "Maharjan"
+  }
+}

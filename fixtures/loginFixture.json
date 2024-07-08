@@ -1,0 +1,31 @@
+{
+  "validUser": {
+    "Username": "student",
+    "Password": "Password123"
+  },
+  "invalidUser": {
+    "Username": "student",
+    "Password": "Password123",
+    "InvalidUsername": "student1",
+    "InvalidPassword": "Password12",
+    "EmptyUsername": "",
+    "EmptyPassword": ""
+  },
+  "validContact": {
+    "email": "user9@gmail.com",
+    "password": "test12345"
+  },
+  "addContact": {
+    "firstname": "Test",
+    "lastname": "Test",
+    "dob": "2000-02-08",
+    "email": "user9@gmail.com",
+    "phone": "9875172849",
+    "address1": "bfakuk",
+    "address2": "hfdji",
+    "city": "vhkd",
+    "state": "hvjk",
+    "postal": "44600",
+    "country": "gchks"
+  }
+}
